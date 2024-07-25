@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { Link } from 'react-router-dom';
 
 function Header() {
   const [isOpen, setIsOpen] = useState(false);
@@ -10,16 +11,16 @@ function Header() {
             </h1>
             <nav className="flex justify-center mb-8">
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
-                Home
+              <Link to="/">Home</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
-                About
+              About
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
-                Menu
+              <Link to="/menu">Menu</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
-                Blog
+                <Link to="/gallary">Gallary</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
                 Store

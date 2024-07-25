@@ -1,0 +1,35 @@
+{
+    "gallery": [
+      {
+        "id": 1,
+        "title": "Sunset Over the Mountains",
+        "description": "A beautiful sunset over the mountain range.",
+        "url": "https://images.squarespace-cdn.com/content/v1/5df83242f28bd034310f2719/1939c234-4524-417b-ba1a-6e0a480c96bc/Chilaquiles.jpg?format=500w"
+      },
+      {
+        "id": 2,
+        "title": "Ocean Waves",
+        "description": "Waves crashing on a sandy beach.",
+        "url": "https://images.squarespace-cdn.com/content/v1/5df83242f28bd034310f2719/577350e9-4c73-46be-85a0-af9c19146f9e/Menudo.jpg?format=500w"
+      },
+      {
+        "id": 3,
+        "title": "Forest Path",
+        "description": "A serene path through a dense forest.",
+        "url": "https://images.squarespace-cdn.com/content/v1/5df83242f28bd034310f2719/813c658f-cae2-4721-aeeb-5556b05c75b2/Taco+de+cabeza.jpg?format=500w"
+      },
+      {
+        "id": 4,
+        "title": "City Skyline",
+        "description": "A stunning view of the city skyline at night.",
+        "url": "https://images.squarespace-cdn.com/content/v1/5df83242f28bd034310f2719/ec3e20a0-7f70-4567-a063-c977c40e86ee/Screen+Shot+2024-06-03+at+10.28.39+PM.png?format=500w"
+      },
+      {
+        "id": 5,
+        "title": "Desert Dunes",
+        "description": "Sand dunes stretching across the desert landscape.",
+        "url": "https://images.squarespace-cdn.com/content/v1/5df83242f28bd034310f2719/1e96062a-f790-421b-bdda-57b4ebeb7330/Breakfast+Sandwich.jpg?format=500w"
+      }
+    ]
+  }
+  
