@@ -5,7 +5,7 @@ function Header() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-          <div className="container mx-auto bg-white rounded-lg shadow-md p-8 flex justify-between items-center">
+          <div className="container mx-auto bg-red rounded-lg shadow-md p-8 flex justify-between items-center">
             <h1 className="text-4xl font-bold mb-4 text-green-600">
               Delicious Italian Food
             </h1>
