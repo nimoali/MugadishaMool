@@ -23,7 +23,7 @@ function Header() {
                 <Link to="/gallary">Gallary</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
-                Store
+              <Link to="/Store">Store</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out">
                 Contact
