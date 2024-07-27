@@ -14,7 +14,7 @@ function Header() {
               <Link to="/">Home</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
-              About
+              <Link to="/About">About</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out mr-4">
               <Link to="/menu">Menu</Link>
