@@ -26,7 +26,7 @@ function Header() {
               <Link to="/Store">Store</Link>
               </a>
               <a href="#" className="text-lg text-gray-600 hover:text-green-600 transition duration-300 ease-in-out">
-                Contact
+              <Link to="/Contact">Contact</Link>
               </a>
             </nav>
             <button className="bg-green-600 hover:bg-green-700 text-white font-bold py-2 px-4 rounded">

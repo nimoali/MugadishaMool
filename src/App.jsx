@@ -5,6 +5,7 @@ import Home from './assets/pages/Home';
 import Gallery from './assets/pages/Gallary';
 import About from './assets/pages/About';
 import Store from './assets/pages/Store';
+import Contact from './assets/pages/Contact';
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path='/gallary' element ={<Gallery/>} />
           <Route path='/About' element ={<About/>} />
           <Route path='/Store' element ={<Store/>} />
+          <Route path='/Contact' element ={<Contact/>} />
 
         </Routes>
       </div>
