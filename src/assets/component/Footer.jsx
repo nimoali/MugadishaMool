@@ -19,7 +19,7 @@ const Footer = () => {
                   <i className="fab fa-whatsapp"></i>
                 </a>
               </div>
-              <p className="text-sm text-gray-400">
+              <p className="text-sm text-blue-400">
                 © Company Name 2020. All rights reserved.
               </p>
             </div>
